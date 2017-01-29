@@ -23,4 +23,4 @@ function showContriesList(resp){ //definiujemy funkcje. Jeszcze nie wiem jak bed
 
 }
 
-/* brakuje nam jeszcze w fukcji przjęcia danych z API o wyszukiwaych krajach oraz włożenie ich do ul o id "countries"
+/* brakuje nam jeszcze w fukcji przjęcia danych z API o wyszukiwaych krajach oraz włożenie ich do ul o id "countries"*/
